@@ -1,0 +1,15 @@
+D:\market\CampusMarket\UserService\src\main\java\com\yjq\programmer\domain\CartExample.java
+D:\market\CampusMarket\UserService\src\main\java\com\yjq\programmer\service\impl\UserServiceImpl.java
+D:\market\CampusMarket\UserService\src\main\java\com\yjq\programmer\service\IUserService.java
+D:\market\CampusMarket\UserService\src\main\java\com\yjq\programmer\dao\AddressMapper.java
+D:\market\CampusMarket\UserService\src\main\java\com\yjq\programmer\domain\Cart.java
+D:\market\CampusMarket\UserService\src\main\java\com\yjq\programmer\dao\UserMapper.java
+D:\market\CampusMarket\UserService\src\main\java\com\yjq\programmer\domain\AddressExample.java
+D:\market\CampusMarket\UserService\src\main\java\com\yjq\programmer\feignclient\ProductClient.java
+D:\market\CampusMarket\UserService\src\main\java\com\yjq\programmer\controller\UserController.java
+D:\market\CampusMarket\UserService\src\main\java\com\yjq\programmer\domain\User.java
+D:\market\CampusMarket\UserService\src\main\java\com\yjq\programmer\dao\CartMapper.java
+D:\market\CampusMarket\UserService\src\main\java\com\yjq\programmer\domain\Address.java
+D:\market\CampusMarket\UserService\src\main\java\com\yjq\programmer\domain\UserExample.java
+D:\market\CampusMarket\UserService\src\main\java\com\yjq\programmer\UserServiceApplication.java
+D:\market\CampusMarket\UserService\src\main\java\com\yjq\programmer\feignclient\StoreClient.java
